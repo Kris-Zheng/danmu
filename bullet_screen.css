@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    margin:  auto;
+    background: #ffffff;
+    height: 500px;
+    border: 2px solid #ddd;
+    position: relative;
+    overflow: hidden;
+}
+.menu-bar{
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#bullet-text{
+    width: 300px;
+    height: 30px;
+
+}
+
+#a{
+    padding: 5px 40px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+}
+
+#b{
+    padding: 5px 40px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+
+}
